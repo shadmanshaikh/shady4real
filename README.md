@@ -33,6 +33,6 @@
 
 <br />
 <br />
-
+  <img align="left" alt="shady4real's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shady4real&show_icons=true&hide_border=true" />
                         
 ### Have a Great Day!!

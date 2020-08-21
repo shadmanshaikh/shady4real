@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shady4real/shady4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on font-end development
 - 🌱 I’m currently learning conventional neural network
@@ -13,5 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a avid chess player , enjoy Playing Badminton , Cricket & Carrom!!
-                        ### Have a Great Day!!
--->
+                        
+                        
+### Have a Great Day!!

@@ -1,4 +1,4 @@
-### salut ,Its Shadman Shaikh  👋
+### salut , Its Shadman Shaikh  👋
 
 
 - 🔭 I’m currently working on font-end development

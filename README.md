@@ -9,7 +9,7 @@
 - 📫 How to reach me: 
           [Instagram](https://www.instagram.com/shady._xo), 
      My   [website](https://www.shadmanforreal45.wix.com/shady4real)
-- ⚡ Fun fact: I'm a avid chess player , enjoy Playing Badminton , Cricket & Carrom!!
+- ⚡ Fun fact: I'm a avid chess player , enjoy Playing Badminton , Cricket & also Carrom!!
 
 
 ### Languages and Tools:

@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with reinforcement learning
 - 💬 Ask me about React JS
 - 📫 How to reach me: 
-          [Instagram](https://www.instagram.com/shady._xo), 
+          [Instagram](https://www.instagram.com/shady__4real), 
      My   [website](https://www.shadmanforreal45.wix.com/shady4real)
 - ⚡ Fun fact: I'm a avid chess player , enjoy Playing Badminton , Cricket & also Carrom!!
 
@@ -33,7 +33,6 @@
 
 <br />
 <br />
-  <img align="left" alt="shady4real's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shady4real&show_icons=true&hide_border=true" />
   
 <br />
 <br />

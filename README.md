@@ -1,15 +1,15 @@
 ### Salute , Its SHADMAN  👋
 
 
-- 🔭 I’m currently working on font-end development
-- 🌱 I’m currently learning conventional neural network
+- 🔭 I’m currently working on Competitive Programming.
+- 🌱 I’m currently learning Java Collections.
 - 👯 I’m looking to collaborate on web app(projects)
 - 🤔 I’m looking for help with reinforcement learning
 - 💬 Ask me about React JS
 - 📫 How to reach me: 
           [Instagram](https://www.instagram.com/shady__4real), 
      My   [website](https://www.shadmanforreal45.wix.com/shady4real)
-- ⚡ Fun fact: I'm a avid chess player , enjoy Playing Badminton , Cricket & also Carrom!!
+- ⚡ Fun fact: I'm a avid chess player 1200+ rating (chess.com) , enjoy Playing Badminton , Cricket & also Carrom!!
 
 
 ### Languages and Tools:
@@ -39,7 +39,7 @@
                         
 
 [<img align="left" alt="shadman_icon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shadman-shaikh-7b6523191/)
-[<img align="left" alt="shadman_icon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shady._xo)
+[<img align="left" alt="shadman_icon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shady__4real)
 
 <br />
 <br />

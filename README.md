@@ -9,6 +9,7 @@
 - 📫 How to reach me: 
           [Instagram](https://www.instagram.com/shady__4real), 
      My   [website](https://www.shadmanforreal45.wix.com/shady4real)
+          [LinkedIn](https://www.linkedin.com/in/shadman-shaikh-7b6523191/)
 - ⚡ Fun fact: I'm a avid chess player 1200+ rating (chess.com) , enjoy Playing Badminton , Cricket & also Carrom!!
 
 

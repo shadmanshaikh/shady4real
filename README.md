@@ -1,10 +1,12 @@
-### Salute , Its SHADMAN  👋
+### SHADMAN  👋
 
 
 - 📫 How to reach me: 
-          [Instagram](https://www.instagram.com/shady__4real) ||
      My   [website](https://www.shadmanforreal45.wix.com/shady4real) ||
-          [LinkedIn](https://www.linkedin.com/in/shadman-shaikh-7b6523191/)
+     <br/>
+     [Instagram](https://www.instagram.com/shady__4real) ||
+     <br/>
+     [LinkedIn](https://www.linkedin.com/in/shadman-shaikh-7b6523191/)
 
 
 
@@ -14,4 +16,3 @@
 <br />
 <br />
 
-### Have a Great Day!!

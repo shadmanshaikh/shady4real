@@ -1,8 +1,9 @@
 ### SHADMAN  👋
 
 
-- 📫 How to reach me: 
-     My   [website](https://www.shadmanforreal45.wix.com/shady4real) ||
+ 📫 How to reach me: 
+     </br>
+      My [website](https://www.shadmanforreal45.wix.com/shady4real) ||
      <br/>
      [Instagram](https://www.instagram.com/shady__4real) ||
      <br/>

@@ -1,4 +1,4 @@
-Hi 👋 My name is shadman
+Hi 👋 I'm shadman
 ========================
 
 AI enthusiast

@@ -4,7 +4,7 @@ Hi 👋 I'm shadman
 AI enthusiast
 -------------
 
-I've learning web dev and AI as a hobby
+I'm doing web dev and AI as a hobby
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Myportfolio](http://https://shadmanforreal45.wixsite.com/shady4real)

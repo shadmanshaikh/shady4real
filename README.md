@@ -38,7 +38,7 @@ I'm working web dev and ML/DL.
 
 <div width="100%" align="center"><a href="https://github.com/shady4real/BankDeparture-Prediction-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=ann&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shady4real/memes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=memes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/shady4real/python_apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=python_apps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 

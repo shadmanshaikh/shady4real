@@ -1,15 +1,15 @@
 Hi 👋 I'm shadman
 ========================
 
-AI enthusiast
+AI Enthusiast | Web Developer | Deep Learning | Reinforcement Learning.
 -------------
 
-I'm doing web dev and AI as a hobby
+I'm working web dev and ML/DL.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Myportfolio](http://https://shadmanforreal45.wixsite.com/shady4real)
 * ✉️  You can contact me at [shadmanforreal45@gmail.com](mailto:shadmanforreal45@gmail.com)
-* 🧠  I'm learning ANN
+* 🧠  I'm learning ANN , Autoencoders, CNN and RNN.
 
 ### Skills
 

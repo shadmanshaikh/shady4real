@@ -4,7 +4,7 @@ Hi 👋 I'm shadman
 AI Enthusiast | Web Developer | Deep Learning | Reinforcement Learning.
 -------------
 
-I'm working web dev and ML/DL.
+I'm working on Web Development and MachineLearning/DeepLearning.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Myportfolio](http://https://shadmanforreal45.wixsite.com/shady4real)

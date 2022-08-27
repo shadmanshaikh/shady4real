@@ -36,16 +36,22 @@ I'm working web dev and ML/DL.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shady4real/BankDeparture-Prediction-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=ann&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shady4real/fraud-detection-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=fraud-detection-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/shady4real/BankDeparture-Prediction-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=BankDeparture-Prediction-Model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br/>
+
+<div width="100%" align="center"><a href="https://github.com/shady4real/fraud-detection-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=fraud-detection-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br/>
 
 
 
-<div width="100%" align="center"><a href="https://github.com/shady4real/python_apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=python_apps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/shady4real/Animalpredictionusingcnn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=Animalpredictionusingcnn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br/>
 
 <div width="100%" align="center"><a href="https://github.com/shady4real/pdfcoverter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=pdfcoverter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br/>
 
-<div width="100%" align="center"><a href="https://github.com/shady4real/sub_pdf_finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=sub_pdf_finder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/shady4real/sub_pdf_finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=sub_pdf_finder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
 
+<div width="100%" align="center"><a href="https://github.com/shady4real/Data_leakage_detection_system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shady4real&repo=Data_leakage_detection_system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 

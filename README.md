@@ -7,7 +7,7 @@ AI Enthusiast | Web Developer | Deep Learning | Reinforcement Learning.
 I'm working on Web Development and MachineLearning/DeepLearning.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Myportfolio](http://https://shadmanforreal45.wixsite.com/shady4real)
+* 🖥️  See my portfolio at [Myportfolio](https://shadmanforreal45.wixsite.com/shady4real)
 * ✉️  You can contact me at [shadmanforreal45@gmail.com](mailto:shadmanforreal45@gmail.com)
 * 🧠  I'm learning ANN , Autoencoders, CNN and RNN.
 

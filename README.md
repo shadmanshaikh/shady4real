@@ -12,4 +12,4 @@ I'm working on Web Development and MachineLearning/DeepLearning.
 * 🧠  I'm learning ANN , Autoencoders, CNN and RNN.
 
 Reach me out on :
-[LinkedIn](https://www.linkedin.com/in/shadman-shaikh-7b6523191/) | [Instagram](www.instagram.com/shady_4r) | [dev.to](www.dev.to/shady4real)
+[LinkedIn](https://www.linkedin.com/in/shadman-shaikh-7b6523191/) | [Instagram](https://www.instagram.com/shady_4r) | [dev.to](https://www.dev.to/shady4real)
